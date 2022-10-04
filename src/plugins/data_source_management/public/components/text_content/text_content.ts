@@ -19,7 +19,7 @@ export const titleText = i18n.translate('title', {
 });
 
 export const descriptionText = i18n.translate('description', {
-  defaultMessage: 'Description',
+  defaultMessage: 'Description - optional',
 });
 
 export const usernameText = i18n.translate('username', {
